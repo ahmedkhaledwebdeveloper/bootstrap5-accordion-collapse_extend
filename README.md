@@ -1,0 +1,1 @@
+# bootstrap5-accordion-collapse_extend
